@@ -1,6 +1,6 @@
 "# shoes-shopping-frontend" 
 ## My second front-end project with html and css platforms
-## Retrieved with slight changes from https://templatemo.com/live/templatemo_559_zay_shop
+- Retrieved with slight changes from https://templatemo.com/live/templatemo_559_zay_shop
 ### Overview:
 ![Screenshot 2024-02-19 195338](https://github.com/ariajafari369/shoes-shopping-frontend/assets/157210303/7d4d2b1e-9628-4b78-a4b4-b97f8257643f)
 ![Screenshot 2024-02-19 195345](https://github.com/ariajafari369/shoes-shopping-frontend/assets/157210303/d5399fe7-ccdd-467e-8e9e-f3e2d53425b9)
