@@ -1,4 +1,4 @@
-"# shoes-shopping-frontend" 
+"shoes-shopping-frontend" 
 ## My second front-end project with html and css platforms
 - Retrieved with slight changes from https://templatemo.com/live/templatemo_559_zay_shop
 ### Overview:
